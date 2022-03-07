@@ -7,7 +7,7 @@ import { Routes, Route, BrowserRouter as Router } from 'react-router-dom';
 ReactDOM.render(
   <Router>
     <Routes>
-      <Route exact path="/" element={<App/>}/>
+      <Route exact path="/manga" element={<App/>}/>
     </Routes>
   </Router>,
   document.getElementById('root')
