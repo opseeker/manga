@@ -1,0 +1,13 @@
+.text-center{text-align: center}
+
+.fw-200{font-weight:200}
+.fw-300{font-weight:300}
+.fw-400{font-weight:400}
+.fw-500{font-weight:500}
+
+.pad-10px{padding: 10px}
+.pad-1em{padding:1em}
+.pad-2em{padding:2em}
+
+.dis-f{display:flex}
+.dis-b{display:block}

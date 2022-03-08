@@ -1,0 +1,37 @@
+.navbar {
+    margin:0;
+    padding: 0px 10px 0px 10px;
+    background-color: var(--color-1);
+    display: flex;
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: 380;
+}
+
+/* first menu strip */
+.menu-items {
+    color: var(--color-0);
+    margin: 10px 0px 10px 0px;
+}
+
+.menu-items-1 {
+    margin: 0px 0px 10px 0px;
+}
+
+/* first menu strip */
+.menu-items a {
+    margin: 28px;
+    text-decoration: none;
+    color: var(--color-3);
+}
+
+.menu-items-1 a {
+    margin: 25px;
+    text-decoration: none;
+    color: var(--color-4);
+}
+
+.menu-items.active, .menu-items-1.active {
+    font-weight: 400;
+    color: blue;
+}
