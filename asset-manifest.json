@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/manga/static/css/main.165cc7c1.css",
-    "main.js": "/manga/static/js/main.577a9ec4.js",
+    "main.css": "/manga/static/css/main.42e6600f.css",
+    "main.js": "/manga/static/js/main.632d4ad7.js",
     "static/media/logo.svg": "/manga/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/manga/index.html",
-    "main.165cc7c1.css.map": "/manga/static/css/main.165cc7c1.css.map",
-    "main.577a9ec4.js.map": "/manga/static/js/main.577a9ec4.js.map"
+    "main.42e6600f.css.map": "/manga/static/css/main.42e6600f.css.map",
+    "main.632d4ad7.js.map": "/manga/static/js/main.632d4ad7.js.map"
   },
   "entrypoints": [
-    "static/css/main.165cc7c1.css",
-    "static/js/main.577a9ec4.js"
+    "static/css/main.42e6600f.css",
+    "static/js/main.632d4ad7.js"
   ]
 }
