@@ -6,6 +6,8 @@
     text-transform: uppercase;
     font-size: 1em;
     font-weight: 380;
+    position: sticky;
+    top: calc(-10px * 6 - 5px);
 }
 
 /* first menu strip */
@@ -22,7 +24,7 @@
 .menu-items a {
     margin: 28px;
     text-decoration: none;
-    color: var(--color-3);
+    color: var(--color-4);
 }
 
 .menu-items-1 a {
@@ -34,4 +36,12 @@
 .menu-items.active, .menu-items-1.active {
     font-weight: 400;
     color: blue;
+}
+
+a.active {
+    color: blue;
+    font-weight: bold;
+    font-size: 1em;
+    border: 2px solid black;
+    padding: 4px;
 }

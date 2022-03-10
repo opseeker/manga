@@ -11,7 +11,7 @@
 
 .bg-animation {
   background-color: #000000;
-  min-height: 100vh;
+  min-height: calc(100vh - 68px);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -36,4 +36,21 @@
   top:calc(10px * 1 + 1em * 5);
   color: white;
   padding: 5px;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+}
+
+.version {
+  font-size:1.4em;
+  font-style: italic;
+  font-weight: 300;
+  text-shadow: 2px 2px red, -2px -2px green;
+}
+
+.copyright {
+  font-size:1.4em;
+  font-weight: 200;
 }
